@@ -23,7 +23,6 @@ public static class Startup
         services.AddScoped<IFileOperationsUtil, FileOperationsUtil>();
         services.AddRunnersManagerAsScoped();
         services.AddFileDownloadUtilAsScoped();
-        services.AddScoped<IOpenApiFixer, OpenApiFixer>();
 
         return services;
     }
