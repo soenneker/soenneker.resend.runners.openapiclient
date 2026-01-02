@@ -15,7 +15,7 @@
         <AssemblyName>Soenneker.Resend.Runners.OpenApiClient</AssemblyName>
         <PackageId>Soenneker.Resend.Runners.OpenApiClient</PackageId>
         <PackageTags>resend runners openapiclient email api smtp kiota runner resendrunnerutil openapirunner csharp dotnet c# .net</PackageTags>
-        <Copyright>Copyright © 2025 Jake Soenneker</Copyright>
+        <Copyright>Copyright © 2025-2026 Jake Soenneker</Copyright>
         <Authors>Jake Soenneker</Authors>
         <Company>https://soenneker.com</Company>
         <GenerateDocumentationFile>true</GenerateDocumentationFile>
