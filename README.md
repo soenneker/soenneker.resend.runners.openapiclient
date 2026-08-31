@@ -3,6 +3,5 @@
 [![](https://img.shields.io/github/actions/workflow/status/soenneker/Soenneker.Resend.Runners.OpenApiClient/codeql.yml?label=CodeQL&style=for-the-badge)](https://github.com/soenneker/Soenneker.Resend.Runners.OpenApiClient/actions/workflows/codeql.yml)
 
 # ![](https://user-images.githubusercontent.com/4441470/224455560-91ed3ee7-f510-4041-a8d2-3fc093025112.png) Soenneker.Resend.Runners.OpenApiClient
-### Automatically updates the Soenneker.Resend.OpenApiClient package
 
-This runner executes a GitHub action that updates another project. It's not meant for consumption.
+Regenerates and publishes `Soenneker.Resend.OpenApiClient` from Resend's OpenAPI specification.
